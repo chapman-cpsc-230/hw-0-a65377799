@@ -2,7 +2,7 @@
 
 **Author:** _\<Ningjie Wang\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<02/04/2016\>_
 
 ## Description
 
