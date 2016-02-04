@@ -6,7 +6,8 @@
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<Clone repository to my local machine. Edit my name and date on the Readme file.
+Perform a commit so the edits I've made will be saved. \>_
 
 ## What I Learned from This
 
