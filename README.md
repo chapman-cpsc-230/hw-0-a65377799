@@ -11,7 +11,7 @@ Perform a commit so the edits I've made will be saved. \>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<To be honest, I did not really learn anything from this assignment. I downloaded github desktop but it wound not run because my system is too old. the update is 6GB and takes forever to download. I will try again on my desktop after class.\>_
 
 ## Honor Pledge
 
@@ -22,4 +22,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Ningjie Wang\>_
